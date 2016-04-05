@@ -1,6 +1,6 @@
 name: hiimserge
 favicon: null
-layout_spectrum: 0.787770981900394
+layout_spectrum: 0.24191
 typography_spectrum: 0.6282138219103217
 title: CATAPULT
 cta:
@@ -23,7 +23,7 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   brandStrength: 0.741076064761728
-  lightness: 0.7299900550860912
-  saturation: 0.751737511716783
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0.7889314119238406
 purpose: []
