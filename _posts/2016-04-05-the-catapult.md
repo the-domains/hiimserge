@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "And 5...4...3...2...1... We lift off into a fortunate voyage of \_cataclysmic unknowns."
-datePublished: '2016-04-05T13:23:10.505Z'
-dateModified: '2016-04-04T18:02:21.837Z'
+datePublished: '2016-04-05T13:51:23.351Z'
+dateModified: '2016-04-05T13:50:00.688Z'
 title: THE CATAPULT
 author: []
+sourcePath: _posts/2016-04-05-the-catapult.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-the-catapult.md
-published: true
 url: the-catapult/index.html
 _type: Article
 
