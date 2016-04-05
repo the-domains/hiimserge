@@ -1,7 +1,7 @@
 name: hiimserge
 favicon: null
-layout_spectrum: 0.49098
-typography_spectrum: 0.6282138219103217
+layout_spectrum: 1
+typography_spectrum: 0.12709
 title: CATAPULT
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000002'
+    - '#faefdd'
+    - '#1b708e'
+    - '#73bcbf'
+    - '#d76946'
   brandStrength: 0
   lightness: 0
   saturation: 0
